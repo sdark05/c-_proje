@@ -13,6 +13,7 @@ namespace vize4
 
         static void Main(string[] args)
         {
+            string str;
 
 
 
